@@ -1,0 +1,9 @@
+Books: 
+0_Coding in Java_Coder_false_2008
+1_Coding in C_Marcin Luter King_false_2011
+2_Coding in Python_Todorika_false_1999
+3_1984_Orwell_true_1984
+4_SpiderWik_Alexa_true_2013
+Members: 
+0_Maciej_20_17744_0_1_2_
+1_Oleg_17_17743_-1_-1_-1_
